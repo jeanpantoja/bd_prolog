@@ -1,0 +1,11 @@
+diretor('Erado Desnecessauro').
+diretor('Laura K').
+diretor('Pombos S').
+diretor('jean pantoja').
+genero('ficcao cientifica').
+genero(comedia).
+genero(acao).
+filme('De volta para o futuro',genero('ficcao cientifica'),diretor('jean pantoja')).
+filme('Assasino a prexo fixo',genero(acao),diretor('jean pantoja')).
+filme('tudo que vai volta',genero(comedia),diretor('jean pantoja')).
+filme('filme da laura',genero(comedia),diretor('Laura K')).
