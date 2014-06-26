@@ -15,7 +15,7 @@ menu_diretor.
 
 opcoes_menu_diretor(1):-cadastrar_diretor,menu_diretor.
 opcoes_menu_diretor(2):-remover_diretor,menu_diretor.
-opcoes_menu_diretor(3):-listar_todos_os_diretores,menu_diretor.
+opcoes_menu_filme(3):-listar_todos_os_diretores,menu_diretor.
 opcoes_menu_diretor(4):-menu_principal.
 
 
